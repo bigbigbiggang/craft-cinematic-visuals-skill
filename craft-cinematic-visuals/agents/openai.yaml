@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影质感创作"
+  short_description: "尊重原片摄影逻辑，制作自然、渐进且可比较的电影质感版本"
+  default_prompt: "使用 $craft-cinematic-visuals 自然地优化这个素材，保留原始光线与媒介属性，并给出三个渐进强度版本。"
